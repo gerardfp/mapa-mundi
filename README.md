@@ -6,7 +6,7 @@ npm i mapa-mundi
 ```
 
 Exemple bàsic:
-```
+```svelte
 <script>
     import { World, getRandomCountry } from 'mapa-mundi'
   
