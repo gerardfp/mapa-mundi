@@ -2,7 +2,7 @@
 
 Install:
 ```
-`npm i mapa-mundi
+npm i mapa-mundi
 ```
 
 Exemple bàsic:
